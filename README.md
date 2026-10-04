@@ -8,8 +8,8 @@
 
 ## <div align="center">🦈 关于我</div>
 
-- 🔭 **正在折腾**：B 站下载工具、多源音乐播放器、各种自动化小脚本
-- 🌱 **正在学习**：Rust · TypeScript · Cloudflare Workers
+- 🔭 **正在折腾**：vibecoding
+- 🌱 **正在学习**：vibecoding
 - 📺 重度 B 站用户 · 🎵 音乐收集癖 · 📱 安卓折腾党
 - 💬 **欢迎找我聊**：Bilibili 生态 / 油猴脚本 / Kotlin 安卓开发
 - 📫 **如何找到我**：开个 [Issue](https://github.com/yss161/yss161/issues)，或者随便逛逛我的 [仓库](https://github.com/yss161?tab=repositories)
