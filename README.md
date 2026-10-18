@@ -10,10 +10,9 @@
 
 - 🔭 **正在折腾**：vibecoding
 - 🌱 **正在学习**：vibecoding
-- 📺 重度 B 站用户 · 🎵 音乐收集癖 · 📱 安卓折腾党
-- 💬 **欢迎找我聊**：Bilibili 生态 / 油猴脚本 / Kotlin 安卓开发
+- 🎵 音乐收集癖
+- 💬 **欢迎找我聊天**
 - 📫 **如何找到我**：开个 [Issue](https://github.com/yss161/yss161/issues)，或者随便逛逛我的 [仓库](https://github.com/yss161?tab=repositories)
-- ⚡ **冷知识**：在这个主页出现之前，我的签名一直是「个人简介？懒得写.......」
 
 ## <div align="center">🛠️ 技术栈</div>
 
